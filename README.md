@@ -1,5 +1,7 @@
 # d3js-network-graphs
 
+![Network Graph](./resources/Network%20Graph.png)
+
 ## Description
 
 Goal, create a network graph that links ParentID and ID together if I present you a table with them.
